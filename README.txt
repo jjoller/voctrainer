@@ -6,5 +6,6 @@
  | |____ _| |_ ____) |_| |_| |___| (_| | |_) |
  |______|_____|_____/|_____|______\__,_|_.__/ 
                                               
-This is the word trainer prototype of LISILab.                          
+This is the word trainer prototype of LISILab.      
+Some changes from portmann!      
 
