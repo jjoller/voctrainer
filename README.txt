@@ -8,4 +8,4 @@
                                               
 This is the word trainer prototype of LISILab.      
 Some changes from portmann!      
-
+new changes...
